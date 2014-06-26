@@ -1,9 +1,9 @@
 jQuery
 ======
 
-개인 jQuery 연습장 입니다.
+jQuery 기본형식 모음
 
-
+###test
 ```
  mykin_nboard_view.html // 메뉴이름_의미_상태
 ```
